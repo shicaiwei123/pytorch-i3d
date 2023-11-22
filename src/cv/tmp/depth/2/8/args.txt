@@ -1,0 +1,13 @@
+batch_size,16
+lr,0.001
+weight_decay,1e-05
+save_every,2
+load,
+print_every,10
+max_iter,400000
+parallel,False
+workers,4
+mode,depth
+split_num,2
+cv_dir,cv/tmp/depth/2/8
+clip_len,8

@@ -1,0 +1,1 @@
+python train_ntud60_cs.py
